@@ -13,7 +13,7 @@ public class Validator {
         }
 
         if (nombre.equals("Thinking Space 2")) {
-            System.out.println("Felicidades por pasarte el Top 1");
+            System.out.println("Bro NO es Zoink");
         }
 
         if (nombre.equals("Bloodbath")) {
