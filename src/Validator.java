@@ -27,7 +27,10 @@ public class Validator {
         if (nombre.equals("Slaughterhouse")) {
             System.out.println("Ok ahora haz: https://youtu.be/Yu_p9yrVL0w?si=AoGC1BzZQ6sipu40");
         }
+        if (nombre.equals("Acheron")) {
+            System.out.println("https://youtu.be/BotkApcNUxY?si=st2Wopp0mMcFXTy9");
+        }
 
-        return true; // permitido
+        return true;
     }
 }
