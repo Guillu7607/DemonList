@@ -2,11 +2,11 @@ import java.util.*;
 import java.io.*;
 
 public class DemonList {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws Exception {
 
         Scanner sc = new Scanner(System.in);
         Map<String, Integer> demons = new HashMap<>();
-
+        System.out.print("\n==DEMON LIST(Basado en la AREDL)==\n");
         System.out.println("¿Cuántos niveles quieres introducir?");
         int n = sc.nextInt();
         sc.nextLine();

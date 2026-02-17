@@ -30,6 +30,9 @@ public class Validator {
         if (nombre.equals("Acheron")) {
             System.out.println("https://youtu.be/BotkApcNUxY?si=st2Wopp0mMcFXTy9");
         }
+        if (nombre.equals("Kenos")) {
+            System.out.println("https://youtu.be/vM3DpgUY0zg?si=2REXwEtt7iVfncn2");
+        }
 
         return true;
     }
