@@ -33,6 +33,10 @@ public class Validator {
         if (nombre.equals("Kenos")) {
             System.out.println("https://youtu.be/vM3DpgUY0zg?si=2REXwEtt7iVfncn2");
         }
+        if (nombre.equalsIgnoreCase("Orbit")) {
+            System.out.println("Nivel todavia no puesto en lista");
+            return false;
+        }
 
         return true;
     }
