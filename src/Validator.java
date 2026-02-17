@@ -24,6 +24,9 @@ public class Validator {
             System.out.println("Este NO es un Extreme Demon!");
             return false;
         }
+        if (nombre.equals("Slaughterhouse")) {
+            System.out.println("Ok ahora haz: https://youtu.be/Yu_p9yrVL0w?si=AoGC1BzZQ6sipu40");
+        }
 
         return true; // permitido
     }
