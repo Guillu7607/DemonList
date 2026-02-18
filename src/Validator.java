@@ -8,7 +8,7 @@ public class Validator {
         }
 
         if (nombre.equalsIgnoreCase("Stereo Madness")) {
-            System.out.println("¿Te crees muy gracioso no?");
+            System.out.println("No es nivel de la dificultad pedida");
             return false;
         }
 
@@ -21,7 +21,7 @@ public class Validator {
         }
 
         if (nombre.equalsIgnoreCase("FutureFunk")) {
-            System.out.println("Este NO es un Extreme Demon!");
+            System.out.println("No es Nivel de la dificultad pedida");
             return false;
         }
         if (nombre.equals("Slaughterhouse")) {
