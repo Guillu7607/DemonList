@@ -13,11 +13,11 @@ public class Validator {
         }
 
         if (nombre.equals("Thinking Space 2")) {
-            System.out.println("Bro NO es Zoink");
+            System.out.println("https://youtu.be/CELNmHwln_c?si=FLONP4cNTJ4yaUU7");
         }
 
         if (nombre.equals("Bloodbath")) {
-            System.out.println("Recuerdo cuando este nivel era top 1. HACE 10 AÑOS");
+            System.out.println("https://youtu.be/twTw4fjT0ik?si=nLg-xwxkRF8cg6G2 A partir de 1:51");
         }
 
         if (nombre.equalsIgnoreCase("FutureFunk")) {
@@ -25,13 +25,13 @@ public class Validator {
             return false;
         }
         if (nombre.equals("Slaughterhouse")) {
-            System.out.println("Ok ahora haz: https://youtu.be/Yu_p9yrVL0w?si=AoGC1BzZQ6sipu40");
+            System.out.println("https://youtu.be/kpcF1-QAHQc?si=U5LB1HaO5mWEBVOJ");
         }
         if (nombre.equals("Acheron")) {
-            System.out.println("https://youtu.be/BotkApcNUxY?si=st2Wopp0mMcFXTy9");
+            System.out.println("https://youtu.be/sBKR6aUorzA?si=8WaMdT3k8lbrbdVo");
         }
         if (nombre.equals("Kenos")) {
-            System.out.println("https://youtu.be/vM3DpgUY0zg?si=2REXwEtt7iVfncn2");
+            System.out.println("https://youtu.be/Bs1kVySdUtI?si=YJqLs7h62rhLsVXq");
         }
         if (nombre.equalsIgnoreCase("Orbit")) {
             System.out.println("Nivel todavia no puesto en lista");
