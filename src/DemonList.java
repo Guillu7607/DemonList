@@ -6,7 +6,7 @@ public class DemonList {
 
         Scanner sc = new Scanner(System.in);
         Map<String, Integer> demons = new HashMap<>();
-        System.out.print("\n==DEMON LIST(Basado en la AREDL)==\n");
+        System.out.print("\n==DEMON LIST(Basado en AREDL)==\n");
         System.out.println("¿Cuántos niveles quieres introducir?");
         int n = sc.nextInt();
         sc.nextLine();
